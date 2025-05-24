@@ -43,6 +43,9 @@ Model sonuçları aşağıdaki gibidir:
 | Recall     | 0.5244    |
 | F1 Score   | 0.5244    |
 
+
+![Image](https://github.com/user-attachments/assets/1d64a8d8-64c6-4bcd-94b7-cf9b4e35bfe9)
+
 Veri setindeki etiketlerin dengeli olması nedeniyle %50’nin üzerindeki her başarı modeli anlamlı kılar, ancak sonuçlar sınıflar arası ayrımın zor olduğunu göstermektedir. Bu da daha gelişmiş yöntemlere geçilmesi gerektiğini ortaya koymaktadır.
 
 ##  İyileştirme Önerileri
